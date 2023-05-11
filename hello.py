@@ -1,5 +1,5 @@
 a = "Hello world"
 
 print (a)
-input("Name: ")
+input(" Your Name: ")
 print ("Assalomu Aleykum," + name)
