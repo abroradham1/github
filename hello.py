@@ -1,5 +1,5 @@
 a = "Hello world"
 
 print (a)
-
-print ("Assalomu Aleykum")
+input("Name: ")
+print ("Assalomu Aleykum," + name)
